@@ -1,7 +1,7 @@
-# ShopperDNA
+# ShopperDNA - Customer Shopping Behavior Analytics
 
 ## 📌 Project Overview
-**ShopperDNA** is a **Customer Shopping Behavior Analytics** project designed to analyze customer purchasing patterns, subscription behavior, and revenue distribution across different categories and age groups.  
+**ShopperDNA** is a data project designed to analyze customer purchasing patterns, subscription behavior, and revenue distribution across different categories and age groups.  
 
 The project uses **PostgreSQL** as the database, **Python** for data analysis and database connectivity, and **Power BI** for interactive data visualization.
 
